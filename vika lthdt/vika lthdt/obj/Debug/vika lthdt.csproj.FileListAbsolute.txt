@@ -1,0 +1,7 @@
+D:\vika lthdt\vika lthdt\bin\Debug\vika lthdt.exe.config
+D:\vika lthdt\vika lthdt\bin\Debug\vika lthdt.exe
+D:\vika lthdt\vika lthdt\bin\Debug\vika lthdt.pdb
+D:\vika lthdt\vika lthdt\obj\Debug\vika lthdt.exe
+D:\vika lthdt\vika lthdt\obj\Debug\vika lthdt.pdb
+D:\vika lthdt\vika lthdt\obj\Debug\vika lthdt.csprojAssemblyReference.cache
+D:\vika lthdt\vika lthdt\obj\Debug\vika lthdt.csproj.CoreCompileInputs.cache
