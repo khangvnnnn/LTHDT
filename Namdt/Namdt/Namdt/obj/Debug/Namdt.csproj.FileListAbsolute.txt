@@ -1,0 +1,7 @@
+D:\Namdt\Namdt\Namdt\bin\Debug\Namdt.exe.config
+D:\Namdt\Namdt\Namdt\bin\Debug\Namdt.exe
+D:\Namdt\Namdt\Namdt\bin\Debug\Namdt.pdb
+D:\Namdt\Namdt\Namdt\obj\Debug\Namdt.csproj.CoreCompileInputs.cache
+D:\Namdt\Namdt\Namdt\obj\Debug\Namdt.exe
+D:\Namdt\Namdt\Namdt\obj\Debug\Namdt.pdb
+D:\Namdt\Namdt\Namdt\obj\Debug\Namdt.csprojAssemblyReference.cache
